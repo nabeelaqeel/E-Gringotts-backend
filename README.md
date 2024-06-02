@@ -1,6 +1,10 @@
-# E-Gringotts-backend
+# E-Gringotts
+<p align=”center”>
+<img src="/public/images/wallpaperflare-cropped.jpg">
+</p>
+Within the enchanted corridors of Diagon Alley and beyond, the absence of a digital banking solution tailored to the needs of Wizards and Witches has been keenly felt. Enlist yourself into our Magical Banking Website themed around the mystifying universe of the Wizarding World and expose yourself to the wonders of Muggle's Magic called the Internet.<br></br>
 
-This is the backend of E-Gringotts project that use Spring Boot 
+This is the backend of E-Gringotts project that use Spring Boot.
 
 # Set Up
 
